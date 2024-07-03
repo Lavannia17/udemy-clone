@@ -10,13 +10,17 @@ Course Cards: Cards displaying various courses offered, including course titles,
 
 Footer: A footer section at the bottom of the page with links to social media and other important pages.
 
-Technologies Used
+#Technologies Used#
 
 HTML: Used for structuring the content of the page.
 
 CSS: Utilized Flexbox for layout and basic styling.
 
-Acknowledgments
+#How to visit the website:
+
+click the link: https://lavannia17.github.io/udemy-clone/
+
+#Acknowledgments#
 
 This project was created as a learning exercise in HTML and CSS.
 
